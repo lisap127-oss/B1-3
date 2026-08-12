@@ -33,10 +33,10 @@
 
 ### 1-2. 워크플로우 구조  
 Google Sheets (New Row)   
-          ↓
+          ↓  
 Router / Split into Paths  
-   ↙              ↘
-Path A           Path B
+   ↙              ↘  
+Path A           Path B  
 (참가 가능)    (참가 불가 및 대기)  
     ↓               ↓  
 Gmail 발송       Gmail 발송  
